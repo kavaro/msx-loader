@@ -4,7 +4,7 @@
   "description": "MSX loader for webpack",
   "main": "index.js",
   "dependencies": {
-    "msx": "0.3.0",
+    "msx": "0.4.1",
     "loader-utils": "0.2.6"
   },
   "scripts": {
