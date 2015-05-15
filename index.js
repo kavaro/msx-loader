@@ -14,6 +14,7 @@ module.exports = function(source) {
 
   var whitelist = {
     harmony: true,
+    es6module: true,
     precompile: true
   };
 
